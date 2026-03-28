@@ -1,7 +1,4 @@
-Gemini said
-Harshit, GitHub ki README.md file ke liye ye ek perfect 300-word (approx) description hai. Isme tumhare resume ki saari details aur InternSpark ki requirements cover ho jayengi.
 
-Isko copy karke apni repository ki README.md file mein paste kar do:
 
 🚀 Professional Portfolio | Harshit Soni
 Welcome to my personal portfolio repository! This project was developed as part of Task 1: Responsive Portfolio Website for the InternSpark internship program.
